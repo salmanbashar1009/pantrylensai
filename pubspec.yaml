@@ -1,0 +1,34 @@
+name: pantrylensai
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  cloud_firestore: ^6.8.0
+  firebase_ai: ^3.15.0
+  firebase_app_check: ^0.4.6
+  firebase_core: ^4.13.0
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^3.4.2
+  image_picker: ^1.2.3
+  mime: ^2.0.0
+  riverpod_annotation: ^4.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  riverpod_generator: ^4.0.8
+  riverpod_lint: ^3.1.0
+  custom_lint: any
+  build_runner: any
+
+dependency_overrides:
+  meta: ^1.19.0
+  analyzer: ^14.1.0
+  freezed_annotation: ^3.1.0
+  analyzer_plugin: ^0.14.14

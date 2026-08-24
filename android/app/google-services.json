@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914843418301",
+    "project_id": "my-awesome-ai-project-e5e29",
+    "storage_bucket": "my-awesome-ai-project-e5e29.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914843418301:android:9bd6a2f22592bc5b3ec1d4",
+        "android_client_info": {
+          "package_name": "com.example.pantrylensai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAXAOOH_ffvtlSw_pfqnSsUuY5Adtt-xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

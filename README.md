@@ -1,3 +1,3 @@
 # pantrylensai
 
-A new Flutter project.
+AI based virtual kitchen assistant.

@@ -9,15 +9,14 @@ abstract class AppColors {
   static const Color lightSecondary = Color(0xFF27AE60);
   static const Color lightOnSecondary = Color(0xFFFFFFFF);
   static const Color lightSecondaryContainer = Color(0xFFD4EFDF);
-  static const Color lightSurface =  Color(0xFFFDFEFE);
+  static const Color lightSurface = Color(0xFFFDFEFE);
   static const Color lightSurfaceVariant = Color(0xFFF2F4F4);
   static const Color lightOnSurface = Color(0xFF1C2833);
   static const Color lightOutline = Color(0xFFBDC3C7);
   static const Color lightError = Color(0xFFE74C3C);
 
-
   // Dark Theme Palette
-  static const Color darkPrimary =  Color(0xFFEC7063);
+  static const Color darkPrimary = Color(0xFFEC7063);
   static const Color darkOnPrimary = Color(0xFF4A150E);
   static const Color darkPrimaryContainer = Color(0xFF7B241C);
   static const Color darkSecondary = Color(0xFF52BE80);
@@ -28,5 +27,4 @@ abstract class AppColors {
   static const Color darkOnSurface = Color(0xFFECF0F1);
   static const Color darkOutline = Color(0xFF424949);
   static const Color darkError = Color(0xFFF1948A);
-
 }

@@ -3,11 +3,5 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:pantrylensai/app/app.dart';
 
 void main() {
-  runApp(
-    const ProviderScope(
-      child: PantryLensApp(),
-    ),
-  );
+  runApp(const ProviderScope(child: PantryLensApp()));
 }
-
-

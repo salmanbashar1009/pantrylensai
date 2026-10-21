@@ -21,13 +21,12 @@ abstract class AppColors {
   static const Color darkOnPrimary = Color(0xFF4A150E);
   static const Color darkPrimaryContainer = Color(0xFF7B241C);
   static const Color darkSecondary = Color(0xFF52BE80);
-
-  // - **OnSecondary**: `#0E3A1F`
-  // - **SecondaryContainer**: `#1E8449`
-  // - **Surface**: `#121212`
-  // - **SurfaceVariant**: `#1E1E1E`
-  // - **OnSurface**: `#ECF0F1`
-  // - **Outline**: `#424949`
-  // - **Error**: `#F1948A`
+  static const Color darkOnSecondary = Color(0xFF0E3A1F);
+  static const Color darkSecondaryContainer = Color(0xFF1E8449);
+  static const Color darkSurface = Color(0xFF121212);
+  static const Color darkSurfaceVariant = Color(0xFF1E1E1E);
+  static const Color darkOnSurface = Color(0xFFECF0F1);
+  static const Color darkOutline = Color(0xFF424949);
+  static const Color darkError = Color(0xFFF1948A);
 
 }
